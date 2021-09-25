@@ -1,5 +1,5 @@
-# qr2fa-scripts
-Scripts you should have on your root, example (using `tree -L 1`):
+# qr2fa-extra
+Extra files/folders you should have on your root, example (using `tree -L 1`):
 ```
 |-- backend
 |-- frontend
